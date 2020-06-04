@@ -77,9 +77,9 @@ The SDK 2.0 consists of:
 | Requirement | Description |
 |--------|--------|
 | Processor | Intel Core i3 or better |
-| Memovy | 4GB(minimum) 8 GB(recommended) |
+| Memory | 4GB(minimum) 8 GB(recommended) |
 | Hard disk space | 1 GB |
-| Environent | Microsoft Visual Studio 2015 or newer |
+| Environment | Microsoft Visual Studio 2015 or newer |
 | .Net Framework | .Net Framework 4.5.2 or newer |
 | Operating system (Development environment) | Windows |
 | Operating system (Runtime environment) | Windows 8 or above |
